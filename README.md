@@ -1,5 +1,5 @@
 # Super Tools
-Verion 0.0.2.1
+Verion 0.0.2.2
 ### Desktop Apps (Freeware)
 
 | App Name | Category | Purpose |
@@ -15,6 +15,7 @@ Verion 0.0.2.1
 | [Notepad++](https://notepad-plus-plus.org/downloads/)                        | Note Taking      | Best offline coding and note-taking software ever.
 | [Notion](https://www.notion.so/desktop)                                      | Note Taking      | Best note-taking and organizing app for free ever.
 | [OBS](https://obsproject.com/download)                                       | Screen Recording | Best free screen recording and streaming software.
+| [ProtonVPN](https://protonvpn.com/download)                                  | VPN              | Best free and advanced vpn.
 | [QuickLook](https://github.com/QL-Win/QuickLook)                             | QOL Apps         | Brings mac feature quick look to windows.
 | [RoundedTB](https://apps.microsoft.com/store/detail/9MTFTXSJ9M7F)            | UI Changes       | Make your taskbar rounded (supports translucentTB).
 | [ShowKeyPlus](https://github.com/Superfly-Inc/ShowKeyPlus)                   | License Verify   | Show and verify license keys for Windows.
